@@ -1,4 +1,4 @@
-# Pimcore 5
+# Pimcore 5 - A project from Besnik Abrashi
 THE OPEN-SOURCE ENTERPRISE CMS/CMF, PIM, DAM, ECOMMERCE-SUITE  
 
 [![Software License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](LICENSE.md)
